@@ -1,0 +1,29 @@
+[
+  { "id": 1, "brand": "Honda", "model": "Accord", "value": 10000 },
+  { "id": 2, "brand": "Honda", "model": "Civic", "value": 5000 },
+  { "id": 3, "brand": "Honda", "model": "City", "value": 3000 },
+  { "id": 4, "brand": "Toyota", "model": "Camry", "value": 15000 },
+  { "id": 5, "brand": "Toyota", "model": "Corolla", "value": 8000 },
+  { "id": 6, "brand": "Toyota", "model": "Yaris", "value": 15000 },
+  { "id": 7, "brand": "BMW", "model": "3 Series", "value": 35000 },
+  { "id": 8, "brand": "Ford", "model": "Focus", "value": 12000 },
+  { "id": 9, "brand": "Ford", "model": "Mustang", "value": 25000 },
+  { "id": 10, "brand": "Chevrolet", "model": "Malibu", "value": 13000 },
+  { "id": 11, "brand": "Chevrolet", "model": "Impala", "value": 18000 },
+  { "id": 12, "brand": "Chevrolet", "model": "Cruze", "value": 9000 },
+  { "id": 13, "brand": "Chevrolet", "model": "Camaro", "value": 28000 },
+  { "id": 14, "brand": "Audi", "model": "A3", "value": 33000 },
+  { "id": 15, "brand": "Audi", "model": "A4", "value": 37000 },
+  { "id": 16, "brand": "Mercedes-Benz", "model": "C-Class", "value": 38000 },
+  { "id": 17, "brand": "Mercedes-Benz", "model": "E-Class", "value": 55000 },
+  { "id": 18, "brand": "Mercedes-Benz", "model": "GLC", "value": 62000 },
+  { "id": 19, "brand": "Mercedes-Benz", "model": "S-Class", "value": 80000 },
+  { "id": 20, "brand": "Mercedes-Benz", "model": "GLE", "value": 70000 },
+  { "id": 21, "brand": "Mercedes-Benz", "model": "GLA", "value": 40000 },
+  { "id": 22, "brand": "Mercedes-Benz", "model": "A-Class", "value": 35000 },
+  { "id": 23, "brand": "Mercedes-Benz", "model": "CLA", "value": 45000 },
+  { "id": 24, "brand": "Volkswagen", "model": "Jetta", "value": 16000 },
+  { "id": 25, "brand": "Volkswagen", "model": "Passat", "value": 23000 }
+]
+
+  
